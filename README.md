@@ -1,6 +1,5 @@
 
-<img src="https://github.com/KnelsenAsia/KnelsenAsia.github.io/assets/162402518/64257db5-eaf0-461b-bfab-a721059887de" alt="RPB Photo" align="right" width="30%"/>
-
+<img src="https://github.com/KnelsenAsia/KnelsenAsia.github.io/assets/162402518/64257db5-eaf0-461b-bfab-a721059887de" alt="RPB Photo" align="right" width="45%"/>
 
 # _Henry Knelsen_
 
