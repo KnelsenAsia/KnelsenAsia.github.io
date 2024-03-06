@@ -1,4 +1,5 @@
 
+<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _Henry Knelsen_
 
@@ -13,13 +14,9 @@
 > Chiang Mai<br />
 > 50210<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
-
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Grade 12 Diploma - Valley Heights Secondary School
+* BD English Communications - Payap University
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
