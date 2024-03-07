@@ -17,21 +17,21 @@
 * BA English Communications - Payap University
 
 # Faith
-* Supervisor at Car Manufacturing Facility - Marwood Metal Fabrication
-* 
+* Found personal faith in Christ Spring 2010
+* Believe that the Bible is the inspired and authoratative Word of God
+* Believe God's people are to make His name known among the nations that don't yet know Him
   
 
 # Interests
 * Biblical Missions
 * Biblical Discipleship and training
-* Interested in linguistics and language aquisition 
+* Interested in linguistics and language aquisition
+* Leadership
+* Family 
 
 # Work Experience
-* 
+* Supervisor at a car manufacturing facility - Marwood Metal Fabrication
+* Team leader at a Gutter installation company - ITrough inc.
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* Can give upon request
